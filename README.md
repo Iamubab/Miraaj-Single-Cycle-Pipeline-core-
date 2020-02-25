@@ -1,4 +1,4 @@
-#Miraaj, A Single Cycle Core on RISC-V Implementation
+# Miraaj, A Single Cycle Core on RISC-V Implementation
 
 Designed by Ubab Nadeem
 
